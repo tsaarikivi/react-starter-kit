@@ -1,3 +1,8 @@
+## Philosophy
+https://coggle.it/diagram/WfygEoJbsgABSvck/043001cda4ab349a3487d42f8f66fe92c7322c172800d9306df21a8961393b00
+
+## Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
